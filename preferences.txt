@@ -1,0 +1,5 @@
+Cinema: Harry Potter
+Serials: Mis Fits
+Food: pizza
+Season: summer
+Country: Spain

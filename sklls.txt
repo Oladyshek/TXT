@@ -1,0 +1,6 @@
+Agile
+JSON
+TestRail
+Trello
+Kanban
+Scrum
